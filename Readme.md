@@ -1,35 +1,37 @@
- <a href="https://www.linkedin.com/in/syed-hassan-ul-haq-851446247" target="_blank">
+ <a href="https://www.linkedin.com/in/muhammad-taha-mallick-543521287" target="_blank">
 <p align="center">
 
 <div align='center'>
 <p align="center"> 
    Visitor count:
    
-   <img src="https://komarev.com/ghpvc/?username=SyedHassanUlHaq" align="center"/> 
+   <img src="https://komarev.com/ghpvc/?username=Tahamallick" align="center"/> 
  </p></div>
  
-[![An image of @syedhassanulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedhassanulhaq)](https://holopin.io/@syedhassanulhaq)
 
 <a href='giphy.gif'>
 <img align='right' src='giphy.gif' widht=100 height=200></a>
 
 # <img src='AboutMe.png' height=65/>  About Me:
 
-- Hello🤍, my name is <a href="https://www.linkedin.com/in/syed-hassan-ul-haq-851446247/" target="blank">Syed Hassan ul-haq,👨‍💻</a> and I'm a student at UIT studying Computer Science. Python🐍 is my favourite programming Language and Chisel/Scala are my favourite HDLs, and I love solving issues. One of the areas where I gained the most knowledge was GitHub. Aim to contribute to the developer community and the opensource world.
+- Hello🤍, my name is <a href="https://www.linkedin.com/in/muhammad-taha-mallick-543521287/" target="blank">Tahamallick,👨‍💻</a>Data Whisperer with a Tech Twist: Hi there, I'm Tahamallick!
+I'm a passionate Data Analyst in the making, currently honing my skills at UIT as a Computer Science student. While coding in Python is my go-to for building things, I've recently discovered the fascinating world of R and its power for data analysis. My favorite part? Untangling complexities and turning numbers into impactful insights!
+
+GitHub has become my playground, a place where I learn, contribute, and connect with the amazing developer community. My ultimate goal is to dive into the open-source world, collaborating on projects that make a real difference. ✨.
 ------
-<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Python, RV32I & Chisel, Scala, Github and Memes<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
+<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Python,Data wrangling, statistical wizardry, crafting compelling visuals, and predicting the future with machine learning! ✨<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
 
 ## <img src='socials.png' height=40/> Socials:
 <div>
- <a href="https://www.linkedin.com/in/syed-hassan-ul-haq-851446247" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="ulhaqhassan1@gmail.com"><img align="left" alt="hassan gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/muhammad-taha-mallick-543521287" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="tahamallick75@gmail.com"><img align="left" alt="taha gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://twitter.com/hassanu63619531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SyedHassanUlHaq" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Few-Employment-1462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="SyedHassanUlHaq" height="30" width="40" /></a></div>
+<a href="https://www.reddit.com/user/Tahamallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Tahamallick" height="30" width="40" /></a></div>
 
 ## <img src='techstack.png' height=40/> Tech Stack:
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=css,html,bootstrap,py,django,mysql,postgresql,js,java,c,scala,git" />
+<img src="https://skillicons.dev/icons?i=css,html,bootstrap,py,django,mysql,postgresql,R,git" />
 </div>
 
 
