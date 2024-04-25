@@ -30,7 +30,7 @@ GitHub has become my playground, a place where I learn, contribute, and connect 
 
 ## <img src='techstack.png' height=40/> Tech Stack:
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=css,html,bootstrap,py,django,tensorflow,mysql,postgresql,R,git" />
+<img src="https://skillicons.dev/icons?i=css,html,bootstrap,py,django,tensorflow,mysql,numpy,postgresql,R,git" />
 </div>
 
 
