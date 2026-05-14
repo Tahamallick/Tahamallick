@@ -14,8 +14,8 @@
 
 # <img src='AboutMe.png' height=65/>  About Me:
 
-- Hello, my name is <a href="https://www.linkedin.com/in/muhammad-taha-mallick-543521287/" target="blank">Tahamallick,👨‍💻</a>Data Whisperer with a Tech Twist: 
-Hi there this is Tahamallick!
+-  
+Hi there this is <a href="https://www.linkedin.com/in/muhammad-taha-mallick-543521287/" target="blank">Tahamallick</a>
 I'm a passionate Data Analyst in the making, currently honing my skills at UIT as a Computer Science student. While coding in Python is my go-to for building things, I've recently discovered the fascinating world of R and its power for data analysis. My favorite part? Untangling complexities and turning numbers into impactful insights!
 ------
 <br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Python,Data wrangling, statistical wizardry, crafting compelling visuals, and predicting the future with machine learning! ✨<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
